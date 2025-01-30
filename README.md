@@ -1,0 +1,2 @@
+# eventhub.netskope.com
+goldcast
